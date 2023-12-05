@@ -2,5 +2,5 @@
 
 -------
 
-- 👀 I’m interested in making Games & Websites
+- 👀 I’m interested in making Websites, Applications & Games
 - 🌱 I’m currently learning Computer Science along with Java, C# and Python
